@@ -1,0 +1,48 @@
+{
+  "name": "ngx-print-ivy",
+  "version": "0.0.1",
+  "description": "This library is built to provide a solution for printing on html elements (SD team only).",
+  "keywords": [
+    "ng",
+    "ngx",
+    "pdf",
+    "a4",
+    "screen",
+    "paper",
+    "printer-screen",
+    "printer-paper",
+    "printing-paper",
+    "print",
+    "printing",
+    "document",
+    "print-document",
+    "angular",
+    "angular2",
+    "print-html",
+    "print-element",
+    "print-html-element",
+    "ng-print",
+    "ngx-print",
+    "ngx-printing",
+    "ngx-print-div",
+    "angular-print",
+    "ngx-print-html",
+    "ng-print-element",
+    "ngx-print-element",
+    "angular-print-html",
+    "angular-print-element",
+    "printing paper a4",
+    "print paper size",
+    "print paper a4 size",
+    "print paper design",
+    "print html angular",
+    "media print angular"
+  ],
+  "peerDependencies": {
+    "@angular/common": "^15.0.0",
+    "@angular/core": "^15.0.0"
+  },
+  "dependencies": {
+    "tslib": "^2.3.0"
+  }
+}
